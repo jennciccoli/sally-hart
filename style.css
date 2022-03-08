@@ -42,17 +42,17 @@ a:hover {
 }
 
 .image_1 {
-  background-image: url("./sally_1.jpeg");  
+  background-image: url("/sally_1.jpeg");  
 }
 
 .image_2 {
-  background-image: url("./sally_2.jpeg");  
+  background-image: url("/sally_2.jpeg");  
 }
 
 .image_3 {
-  background-image: url("./sally_3.jpeg");  
+  background-image: url("/sally_3.jpeg");  
 }
 
 .image_4 {
-  background-image: url("./sally_4.jpeg");  
+  background-image: url("/sally_4.jpeg");  
 }
